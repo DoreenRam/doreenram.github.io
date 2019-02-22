@@ -19,7 +19,5 @@ Physics Material Summary
 
 
 
-***Law of [Conservation of Energy](https://en.wikipedia.org/wiki/Conservation_of_energy):*** Energy cannot be created or destroyed. It can do lots
-
-
+***Law of [Conservation of Energy](https://en.wikipedia.org/wiki/Conservation_of_energy):*** Energy cannot be created or destroyed. 
 
